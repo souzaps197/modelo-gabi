@@ -1,0 +1,43 @@
+body{
+	background: #8707ff;
+}
+
+header {
+background:	#000;
+border-bottom: 2px inset #fff;
+}
+
+a{
+	color: #8707ff;
+	text-decoration: none;/*retira o underline do link*/
+	padding: 10p;
+}
+
+
+
+.navegacao a:hover {
+	background: #8707ff;
+	color: white;
+	border-radius: 5px;
+}
+
+
+.input {
+ color: #8707ff;
+ border: 2px solid #8707ff;
+ border-radius: 10px;
+ padding: 10px 25px;
+ background: transparent;
+ max-width: 190px;
+}
+
+.input:active {
+ box-shadow: 2px 2px 15px #8707ff inset;
+}
+
+
+button {
+	background: #8707ff;
+}
+
+/*Sou recém formado na área de T.I e atualmente estou me especializando nos cursos de programação, estou em busca de uma oportunidade para poder colocar em prática as habilidades adquiridas durante minha graduação e os estudos atuais de programação. */

@@ -1,0 +1,29 @@
+html, body, #home {
+	height: 100%;
+	overflow-x: hidden;/* esconde a barra de rolagem */
+}
+
+body {
+	background: url(../imagens/fundo4.png) no-repeat top center;
+	background-attachment: fixed;/*fixa a imagem de fundo*/
+	font-family: Helvetica, Arial,sans-serif;
+}
+
+/* barra de navegação */
+
+nav.navbar-transparente {
+	padding: 15px 0px;
+	background: rgba(0, 0, 0, 0.6);
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #9bf0e1;
+}
+
+.capa {
+	text-align: center;
+}
