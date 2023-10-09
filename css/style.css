@@ -4,7 +4,7 @@ html, body, #home {
 }
 
 body {
-	background: url(../imagens/fundo4.png) no-repeat top center;
+	background: url(../assests/fundo5.png) no-repeat top center;
 	background-attachment: fixed;/*fixa a imagem de fundo*/
 	font-family: Helvetica, Arial,sans-serif;
 }
