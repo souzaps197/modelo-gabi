@@ -39,6 +39,20 @@ p {
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	color: white;
 }
-.conteudo {
-	background: white;
+#conteudo {
+	background: #FBEFF5;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.albuns {
+	padding: 10px 0;
+}
+
+.texto2 p, h3 {
+	color:blueviolet ;
+}
+
+.texto2 h3 {
+	text-transform: uppercase;
 }
