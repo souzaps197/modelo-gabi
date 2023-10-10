@@ -27,3 +27,18 @@ nav.navbar-transparente {
 .capa {
 	text-align: center;
 }
+
+h1.titulo {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: white;
+	font-size: 5em;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: white;
+}
+.conteudo {
+	background: white;
+}
