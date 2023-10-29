@@ -35,12 +35,23 @@ h1.titulo {
 	text-transform: uppercase;
 }
 
+h4.titulo2 {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: white;
+	text-transform: uppercase;
+}
+
 p {
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	color: white;
 }
 #conteudo {
 	background: #FBEFF5;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#conteudo2 {
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
@@ -55,4 +66,10 @@ p {
 
 .texto2 h3 {
 	text-transform: uppercase;
+}
+
+.rotacionar {
+	-webkit-transform: rotate(40deg);
+	-ms-transform: rotate(40deg);
+	transform: rotate(40deg);	
 }
