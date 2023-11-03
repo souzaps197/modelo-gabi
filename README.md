@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/image.png.jpg" width="100%">
+  <img alt="Gabi modelo" src=".github/image.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
